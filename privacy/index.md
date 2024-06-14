@@ -23,6 +23,10 @@ The Service Provider may use the information you provided to contact you from ti
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to Email. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
+**External Services**
+
+The application allows connections to external services (e.g., educational institutions). In such cases, all personal data transmitted during the use of the service will be used in accordance with the service's privacy policy.
+
 **Third Party Access**
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
